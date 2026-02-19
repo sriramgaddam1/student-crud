@@ -1,4 +1,4 @@
-# Multi-Category To-Do Manager
+# React Student CRUD App
 
 A beautiful and functional React-based to-do list application with category management.
 
@@ -71,3 +71,4 @@ Works on all modern browsers including:
 
 ## License
 MIT License - feel free to use this project however you'd like.
+
