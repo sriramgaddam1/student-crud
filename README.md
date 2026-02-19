@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿# Student CRUD App
 
 A clean and responsive React application to create, read, update, and delete student records.
@@ -46,4 +45,5 @@ The optimized production files will be generated in the `dist` folder.
 - Firefox
 - Safari
 - Edge
+
 
